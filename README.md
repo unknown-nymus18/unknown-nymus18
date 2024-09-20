@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unknown-nymus18
-- 👀 I’m interested in ...Playing games
+- 👀 I’m interested in ...=Learning more about programming
 - 🌱 I’m currently learning ...Bachelor of Science in Information Technology
-- 💞️ I’m looking to collaborate on ...working on pyhton webapps
+- 💞️ I’m looking to collaborate on ...working on pyhton projects
 - 📫 How to reach me ...felixasante2005@gmail.com
 - 😄 Pronouns: ...He/She
 - ⚡ Fun fact: ... I am 18
